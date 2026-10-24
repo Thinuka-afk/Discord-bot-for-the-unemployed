@@ -9,15 +9,12 @@ A Discord bot that tracks members' gaming activity and runs a monthly competitio
 -  Unemployed Role Award — Automatically awards the Unemployed role to the member with the highest game time each month.
 -  Personal Statistics — Check your own recorded gaming time.
 -  Monthly Competition — Starts a fresh leaderboard for each new month.
--
-- ☁️ Cloud Hosting Support — Can run on a compatible online hosting service.
 🤖 Commands
 Command	Description
 /leaderboard	View the top gamers
 /mytime	Check your recorded game time
 /setwinnerrole	Set the monthly winner's role
 /awardwinner	Award the previous month's winner
-
 
 ⚙️ Built With
 - Python
@@ -28,3 +25,5 @@ Turn gaming into a monthly competition. Play games, climb the leaderboard, and t
  AI Disclaimer: Sorry, I used ai to write the description.
 
 Made for Discord servers where gaming never sleeps. 🎮
+
+You should run it locally and on some one server i guess . bro plz use it i spead 2 days on it. :(
